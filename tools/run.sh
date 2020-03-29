@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Run jekyll site at http://127.0.0.1:4000
 #
 # Requirement:
@@ -9,18 +8,13 @@
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2019 Cotes Chung
 # Published under MIT License
-
 set -eu
 
 WORK_DIR=$(dirname $(dirname $(realpath "$0")))
-
 CONTAINER=.container
 SYNC_TOOL=_scripts/sh/sync_monitor.sh
-
 cmd="bundle exec jekyll s"
 realtime=false
-
-
 help() {
   echo "Usage:"
   echo
@@ -138,4 +132,4 @@ do
   esac
 done
 
-main
+main 
