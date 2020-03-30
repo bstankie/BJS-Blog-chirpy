@@ -3,7 +3,7 @@ layout: post
 title:  "Academia vs. Industry"
 date:   2019-08-01 12:21:24 -0600
 categories: career
-tags: [academia, industry, career]
+tags: academia
 ---
 
 # A Career in Academia
