@@ -16,12 +16,12 @@ In a separate blog, I will summarize my academic journey so those of you who wan
 
  Value systems are very important. It will tell you what will be rewarded and if your passion and/or skill strengths align with that value system you will be rewarded. I want to be clear that these conclusions are based upon my experiences and the experiences of others may lead to different conclusions. However, I will say that I have talked to a lot of people who are in academia and industry and for the most part these views are shared.
 
- ### Teaching vs. Research
+ ## Teaching vs. Research
 
  My journey led me through a number of high-powered research institutions and as such there is an emphasis on research. Teaching in these institutions are neither a focus nor is it truly valued. I was told explicitly when I was a professor that as long as you are getting '3s' on your teaching ratings, you'll be fine and if you your teaching is not the greatest, do not worry about it. Personally, I enjoyed teaching, but I fully recognized the value system that I was in at the University. So, I would always tell my students "I will make all of my notes available on-line. You will have all of the readings. If you don't find any value in my teaching, don't come. I will be paid the same either way." I also would tell them, "You are attending a high-power research institution. If you are only going to classes and not taking advantage of working in a research lab or with a professor you are not getting the full value out of your education."
 If your passion is teaching, go to a teaching college. I have some good friends at [Carleton College](https://carleton.edu) who came from high power research universities and decided to focus on teaching. They are extremely happy with that decision. If you decide to go to a high-power research institution, your path to success will be through research papers and grants. 
 
-### Research in Academia
+## Research in Academia
 
 Research in academia is great. There are an infinite number of questions that you can ask and sometimes it seems that professors are doing just that...asking an infinite number of arbitrary questions (IMHO). However, my experience was that when I finally made it to be a professor, I actually spent less time doing research than I did as a graduate student or a postdoc. 
 When I was a professor I spent my time in the following way. 
