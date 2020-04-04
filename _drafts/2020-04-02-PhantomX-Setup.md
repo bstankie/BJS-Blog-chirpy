@@ -44,11 +44,16 @@ Exception in thread "Animation Thread" java.lang.UnsatisfiedLinkError: jssc.Seri
 
 ## Servo Build
 
-* [Nut Insertion YouTube.com](https://youtu.be/o0JtXuj7HmA) video is useful, but my experience was that they didn't 'snap' into place. The Nuts were still not aligned. I used the driver to push them down from the opposite side of the nut (see images)
+* [Nut Insertion YouTube.com](https://youtu.be/o0JtXuj7HmA) video is useful, but my experience was that they didn't 'snap' into place. The Nuts were still not aligned. I used the driver to push them down from the opposite side of the nut (see images).
+* Recommend using another tool. Seemed to 'round' the edges of my drive tool doing this. Should have known better.
 
 [Image of nut not aligned]
 [Image of using the driver to set nut]
 
+* Use supplied allan wrench to do a 'finish tightening'
 
+* [Step 2.4](https://learn.trossenrobotics.com/16-interbotix/robot-arms/pincher-robot-arm/163-phantomx-pincher-robot-arm-assembly-guide.html) doesn't mention bolts for the 30mm standoff. The parts list also mentions only 4 M3x8 bolts. I think that it should be 8. 4 for the 10mm standoff and 4 for the 30mm standoff.
+
+[Step 2.4 Incorrect](Step-2-Bolts-Incorrect.jpb)
 
 
