@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Academia vs. Industry"
-date:   2019-08-01 12:21:24 -0600
+title: Academia vs. Industry
+date: 2019-08-01 12:21:24 -0600
 categories: [career]
 tags: [academia]
+seo:
+  date_modified: 2020-03-30 19:21:41 -0500
 ---
 
 # A Career in Academia
