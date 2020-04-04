@@ -8,4 +8,12 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+# Brian J. Stankiewicz, Ph.D.
+
+* [Resume](https://resume.bstankie.com)
+* Insatiable Curiosity
+* Servant Leader
+* Blame Taker
+* Credit Giver
+* No BSer
+* Get Sh*t Doner
