@@ -2,8 +2,8 @@
 layout: post
 title:  "PhantomX Robot Build"
 date:   2020-04-02 4:19:00 -0600
-categories: [Tutorial]
-tags: [Robotics]
+categories: [tutorial]
+tags: [robotics]
 ---
 
 # Overview
