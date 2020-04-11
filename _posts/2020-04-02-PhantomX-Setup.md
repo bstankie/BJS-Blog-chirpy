@@ -12,9 +12,28 @@ seo:
 
 Recently I purchased the [PhantomX Pincher Robot Arm](https://www.trossenrobotics.com/p/PhantomX-Pincher-Robot-Arm.aspx) and began the build process. Below are some notes and 'gotchas' that I'd like to pass along to others.
 
+## Starting State
+
+![Starting Parts](/assets/img/post_images/PhantomX-Build/StartingParts.jpg)
+Parts for the [PhantomX Pincher Robot Arm](https://www.trossenrobotics.com/p/PhantomX-Pincher-Robot-Arm.aspx). I marked the servos with white marker to make identifying the servos much easier. I would recommend something like this.
+
+## Finished State
+
+![Starting Parts](/assets/img/post_images/PhantomX-Build/FinishedPhanomXRobot.jpg)
+
 ## Experience
 
-The build is a bit challenging. If building an Ikea desk or bed is a 5,  rebuilding a carburetor is a 10 and getting started on a Mac is a 1, I would say that this is about a 6.5. Challenging, but you'll have to be careful and there are some 'tricky' parts to the instructions. Below are some things that I learned during the build. This is my 'pay it forward' for all of the internet help that I've received over the years.
+The build is a bit challenging. If building an [Ikea Bed](https://www.ikea.com/us/en/p/brimnes-bed-frame-with-storage-headboard-black-luroey-s79129608/) has a difficulty value of 5 (good clear instructions),  rebuilding a carburetor is a 10 (no real instructions and figuring it out as you go) and getting started on a Mac is a 1 (just press the power button), I would say that this is about a 7. Doable but the instructions can be a little bit tricky. To that end below are some things that I learned during the build that should help anyone who might be considering building the robot (including the future me).
+
+## Review
+
+* For roughly $400 this is a great flexible *desktop robot*. 
+* The Dynamixel servos are a great thing to have. 
+* [Trossen Robotics](https://www.trossenrobotics.com/) were really supportive. I purchased this during the COVID19 Quarantine period of 2020 and when initially delivered there were parts missing (check the parts list). 
+  * I sent them a picture of the parts that I had and requested replacement parts and they sent them no questions.
+  * Unfortunately, they had a skeleton crew due to COVID19 and not all of the replacement parts came. During this time grace was needed. They then shipped the remaining part overnight. Thank you Trossen!
+* From the robot quality and build I would build this robot again (especially now that I have the help tips below). I am eager to see how the programming goes and I plan on doing a separate blog on that experience.
+
 
 # Instructions
 
@@ -92,10 +111,12 @@ Exception in thread "Animation Thread" java.lang.UnsatisfiedLinkError: jssc.Seri
 
 ## Step 3
 
-* Only 1 Metal F4 Bracket sent (not 2).
-* No spacers
-* No F3 Brackets
+The parts list for Step #3 has changed. Specifically the *Arm Spacer* are no longer 8 stacked pieces but instead its a single 3D printed part (see below).
 
-![Starting Parts](/assets/img/post_images/PhantomX-Build/StartingParts.jpg)
+![Spacers Product List](/assets/img/post_images/PhantomX-Build/SpacersProdList.jpg) 
 
-![Current State](/assets/img/post_images/PhantomX-Build/CurrentState.jpg)
+'Arm Spacers' listed in the product list and product build
+
+![Spacers Product List](/assets/img/post_images/PhantomX-Build/SpacersNew.jpg) 
+New 3D printed 'Arm Spacers'.
+
