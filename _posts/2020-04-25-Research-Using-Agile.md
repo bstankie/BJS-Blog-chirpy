@@ -8,12 +8,11 @@ tags: [agile]
 
 # TL;DR
 
-* Agile Scrum is designed for incremental improvements when you know what the goal is.
-* Doing research in an Agile Scrum framework can be a challenge when you don't know how to get from 'here to there'.
-* Two tools for doing research in an Agile Scrum framework:
-    1. **Timebox**: Provide the researcher a period of time to investigate or research a solution. You can give the story a set of points given the time box. 
-        * The DoD typically is "Investigate X for Y days". 
-    2. **Question**: Focus on answering a specific question such as "Can reinforcement learning be used to identify the type of user when we only have 100 users?"
+* Agile [scrum](https://www.scrum.org/resources/what-is-scrum) is designed for incremental improvements when you know what the goal is.
+* Doing research in an Agile [scrum](https://www.scrum.org/resources/what-is-scrum) framework can be a challenge when you don't know how to get from 'here to there'.
+* A tool that I have found that works well for doing research in the Agile [scrum](https://www.scrum.org/resources/what-is-scrum) framework is **Timebox with a question**.
+    * **Timebox** Provide the researcher a period of time (or story points) to investigate or research a solution. You can give the story a set of points given the time box. 
+    2. **Question**: Focus on answering a specific question such as "Investigate object recognition solutions and identify opportunities for our products."
 
 # Research in Agile
 
@@ -66,13 +65,11 @@ In the Agile framework, I also break this down to timeboxes during a sprint. Alt
 
 ### The need for trust and flexibility
 
-As I mentioned, when I was a professor, I would always come back to "What question are you trying to answer" and sometimes (often times) this question would drift. In the case of doing research in scrum, you have to have a certain amount of trust in your team by giving them the flexibility to investigate questions adjacent to the question at hand. This is where innovation often comes from (i.e., tripping over the golden rock). When the question becomes too far away from the current question I'll bring the team together and discuss whether we should continue the current question or adapt to this new, possibly more valuable question. If we decide to continue on the current question, we will put the new question in the backlog for future research.
+As I mentioned, when I was a professor, I would always come back to "What question are you trying to answer" and sometimes (often times) this question would drift. In the case of doing research in [scrum](https://www.scrum.org/resources/what-is-scrum), you have to have a certain amount of trust in your team by giving them the flexibility to investigate questions adjacent to the question at hand. This is where innovation often comes from (i.e., tripping over the golden rock). When the question becomes too far away from the current question I'll bring the team together and discuss whether we should continue the current question or adapt to this new, possibly more valuable question. If we decide to continue on the current question, we will put the new question in the backlog for future research.
 
 
+# References
 
-
-
-
-
-https://www.3mhisinsideangle.com/blog-post/using-agile-methods-in-research/
+* [Using Agile Methods in Research](https://www.3mhisinsideangle.com/blog-post/using-agile-methods-in-research/)
+* [What is Scrum?](https://www.scrum.org/resources/what-is-scrum)
 
