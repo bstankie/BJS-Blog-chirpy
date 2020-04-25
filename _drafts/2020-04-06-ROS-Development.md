@@ -6,23 +6,17 @@ categories: [tutorial]
 tags: [aws, robotics]
 ---
 
-# Goals
-1. Setup Cloud9 ROS IDE.
-2. Import PhantomX CAD
-3. Get PhantomX CAD to move with ROS.
+# Goal
+
+
 
 # Cloud9 ROS IDE
 
 1. Creating a [Cloud9 ROS *Integrated Development Environment*](https://docs.aws.amazon.com/robomaker/latest/dg/cloud9-create-ide.html) (IDE)
 
-## Import AWS Hello World
 
-1. From the [RoboMaker: Day 01]({% post_url 2020-04-04-Robomaker-D01 %}) blog post [video](https://youtu.be/eQYUAMFvpLg)
-2. clone the [aws-robomaker-tutorial-helloworld](https://github.com/timrobotson/aws-robomaker-tutorial-helloworld) repository.
-    1. `git clone git@github.com:timrobotson/aws-robomaker-tutorial-helloworld.git` if you are using ssh.
-    2. Copied the simulation workspace (/simulation_ws) folder and the robot workspace (/robot_ws) from the hello world tutorial to [PhantomX tutorial](https://github.com/bstankie/PhantomX-Tutorial).
+# Learning ROS
 
-## Learning ROS
 3. [ROS tutorial #2: Publishers and subscribers](https://youtu.be/bJB9tv4ThV4)
     1. **Nodes**: 'modules' that do one specific thing.
         * E.g., odometer, drive, path planning, etc.
@@ -48,7 +42,6 @@ tags: [aws, robotics]
         * `roscore` or `roslaunch` to launch the Master node.
         * better to use `roscore` and leave it running.
 4. [ROS tutorial #2: Writing some Code](https://youtu.be/bJB9tv4ThV4?t=550)
-
 
 https://youtu.be/9U6GDonGFHw
 
