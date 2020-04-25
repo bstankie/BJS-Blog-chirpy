@@ -16,4 +16,4 @@ title: About
 * Blame Taker
 * Credit Giver
 * No BSer
-* Get Sh*t Doner
+* Epic sh*t doer
