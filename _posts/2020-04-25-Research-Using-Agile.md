@@ -5,7 +5,7 @@ date: 2020-04-25 9:12:00 -0500
 categories: [career]
 tags: [agile, industry, academia]
 seo:
-  date_modified: 2020-04-25 12:16:46 -0500
+  date_modified: 2020-04-25 13:19:02 -0500
 ---
 
 ![Timebox](/assets/img/post_images/hourglass.jpg)
