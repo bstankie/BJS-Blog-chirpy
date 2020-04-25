@@ -3,7 +3,7 @@ layout: post
 title: Doing Research Using Agile
 date: 2020-04-25 9:12:00 -0500
 categories: [career]
-tags: [agile]
+tags: [agile,industry,academia]
 ---
 
 # TL;DR
@@ -67,6 +67,11 @@ In the Agile framework, I also break this down to timeboxes during a sprint. Alt
 
 As I mentioned, when I was a professor, I would always come back to "What question are you trying to answer" and sometimes (often times) this question would drift. In the case of doing research in [scrum](https://www.scrum.org/resources/what-is-scrum), you have to have a certain amount of trust in your team by giving them the flexibility to investigate questions adjacent to the question at hand. This is where innovation often comes from (i.e., tripping over the golden rock). When the question becomes too far away from the current question I'll bring the team together and discuss whether we should continue the current question or adapt to this new, possibly more valuable question. If we decide to continue on the current question, we will put the new question in the backlog for future research.
 
+# Summary
+
+Driving toward a goal often times requires some research that is difficult to define the 'size' of the effort or even what the *Definition of Done* is. A tool to allow for innovation in an Agile framework is to use **Timebox with a Question** to guide the research. The **timebox** allows one to manage the risk of 'wandering through the desert endlessly' and the **question** give the researcher direction. 
+
+Although I never used Agile as a professor in academia I think that it would have done my lab a lot of good to have this process. Inadvertently we did use some of the Agile framework (many labs do), that included weekly lab meetings (Sprint Review) and weekly meetings with researchers (sort of like a standup). I believe that bringing the Agile framework to the lab would have made my, and my student's research more efficient.
 
 # References
 
