@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing Research Using Agile
+title: Research in an Agile Framework--Timebox with a question
 date: 2020-04-25 9:12:00 -0500
 categories: [career]
 tags: [agile, industry, academia]
