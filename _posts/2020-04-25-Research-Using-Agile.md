@@ -8,6 +8,9 @@ seo:
   date_modified: 2020-04-25 12:16:46 -0500
 ---
 
+![Timebox](/assets/img/post_images/hourglass.jpg)
+Photo by [Jordan Benton from Pexels](https://www.pexels.com/photo/shallow-focus-of-clear-hourglass-1095601/)
+ 
 # TL;DR
 
 * Agile [scrum](https://www.scrum.org/resources/what-is-scrum) is designed for incremental improvements when you know what the goal is.
