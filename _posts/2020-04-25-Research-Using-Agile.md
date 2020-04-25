@@ -3,7 +3,9 @@ layout: post
 title: Doing Research Using Agile
 date: 2020-04-25 9:12:00 -0500
 categories: [career]
-tags: [agile,industry,academia]
+tags: [agile, industry, academia]
+seo:
+  date_modified: 2020-04-25 12:09:06 -0500
 ---
 
 # TL;DR
