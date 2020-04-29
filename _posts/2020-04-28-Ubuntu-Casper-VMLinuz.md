@@ -12,14 +12,14 @@ tags: [linux]
 
 ## Background
 
-Three years ago my son was ready to make the leap to a dedicated gaming rig. I told him we were going to do this 'old school' and build our own rigs like we 'used to do in the olden days'. His eyes rolled when I regailed him with stories of going to the comptuer swap meets where we would walk down aisles of vendors and you would buy your components from different vendors. They were good times. I told him about when I bought my first rig in 1987 and I was deciding between a 20 and 40 MB hard drive (yes you read that right MB) and I was balking at the 40MB drive because, 'What in the world would I do with 40MB?'. For those of you that are two young to know, back then the biggest files that you would put on your rig were probably MS Word files. Putting photos on your rig (music wasn't even a thought) was something that we knew was coming so I decided to be prepared and buy the 40 MB hard drive.
+Three years ago my son was ready to make the leap to a dedicated gaming rig. I told him we were going to do this 'old school' and build our own rigs like we 'used to do in the good ol' days'. His eyes rolled when I regailed him with stories of going to the comptuer swap meet where I would walk down aisles and aisles of vendors looking for the best price for a particular component. You could bargain with the vendors if you were willing to purchase multiple components. Those were good times. I told him about when I bought my first rig in 1987 and I how I was faced with an important decision. How large of a hard drive should I buy? I was deciding between a 20 and 40 MB hard drive (yes you read that right MB) and I was balking at the 40MB drive because in my mind I was thinking, 'What in the world would I do with 40MBs?'. For those of you that are two young to know, back in 'those good ole' days' the biggest files that you would put on your rig were probably MS Word files (maybe 100k). Putting photos on your rig (music wasn't even a thought) was something that we knew was coming so I decided to be prepared and buy the 40 MB hard drive.
+
+Anyhow, I digress. When my son and I bought our rig components in 2017 and my son jumped right in to build his rig. At the time the AMD Ryzen chips were just released and the performance reviews were amazing. I did some research, talked with my son about it and we decided to go for it. 
 
 ![Old School Build](/assets/img/post_images/NickBuild.jpg)
 
 
-Anyhow, I digress. When my son and I bought our rigs in 2017 the AMD Ryzen chips were just released and the performance reviews were amazing. I did some research, talked with my son about it and we decided to go for it. 
-
-I love my rig (*Phoenix*). The only downside that I have experinced was that the Linux distros really weren't up-to-date for the Ryzen chips. Our rigs were primarily for gaming so the Ubuntu operating system really was not a priority. However, with the COVID19 stay-at-home initiative, I've had more time (like many of us) to improve my home life so I decided to finally go back and make *Phoenix* a dual-boot machine. I ran into a couple small glitches and I thought that I would share the solution (and regail you with my story).
+I love my rig (*Phoenix*). The only downside that I have experinced was that the Linux distros really weren't up-to-date for the Ryzen chips in 2017. Our rigs were primarily for gaming so the Ubuntu operating system really was not a priority. However, with the COVID19 stay-at-home initiative, I've had more time (like many of us) to improve my home life so I decided to finally go back and make *Phoenix* a dual-boot machine. I ran into a couple small glitches and I thought that I would share the solution (and regail you with my story).
 
 ## *Phoenix* configuration
 
