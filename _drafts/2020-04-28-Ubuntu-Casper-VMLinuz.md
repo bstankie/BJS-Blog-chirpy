@@ -29,7 +29,7 @@ I love my rig (*Phoenix*). The only downside that I have experinced was that the
 |Memory | [Corsair DDR Memory](https://www.newegg.com/corsair-16gb-288-pin-ddr4-sdram/p/N82E16820233863?Item=N82E16820233863)
 |Motherboard|[ASRock X370 Taichi AM4 AMD](https://www.newegg.com/asrock-x370-taichi/p/N82E16813157757?Item=N82E16813157757)
 
-## Boot Drive Issue
+## Boot Drive Issues
 
 I built a bootable USB thumb drive using [Rufus](https://rufus.ie/) as [suggested](https://ubuntu.com/tutorials/tutorial-create-a-usb-stick-on-windows#2-requirements) by [Ubuntu](https://ubuntu.com). 
 
@@ -37,6 +37,7 @@ I built a bootable USB thumb drive using [Rufus](https://rufus.ie/) as [suggeste
 
 The first issue that I had was that the USB Boot Drive was not being recognized and it was going directly to Windows 10. To overcome this I simply had the USB drive connected to my rig and went into the BIOS using the F2 key during bootup. I was then able to re-order the bootable drives on *Phoenix*.
 was
+
 ### V/casper/vmlinuz Not Found
 
 When I was able to get *Phoenix* to recognize the USB drive I thought that I was home free. Then I got an error `/casper/vmlinuz not found`. "Huh?!". Sure enough there was no `vmlinuz` file in the `/casper` directory. I tried re-dowloading and loading it again, and had the same issue. 
