@@ -12,6 +12,15 @@ seo:
 
 # Installing Ubuntu on AMD Ryzen: VMLinuz Error
 
+# TL;DR
+
+* Installation error `/casper/vmlinuz:file not found`
+  * **Diagnosis**: Using Rufus boot drive builder for writing ISO didn't create vmlinuz file.
+  * **Solution**: Used [Pendrive](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) USB boot builder.
+* Unable to get rig to recognize USB boot drive.
+  * **Diagnosis** Boot drive order had hard drive before USB drive.
+  * **Solution** During machine boot up, press F2 and re-order the boot drive order in the BIOS.
+
 ## Background
 
 Three years ago my son was ready to make the leap from my hand-me-down laptop to a full gaming rig. I told him we were going to do this 'old school' and build our own rigs like we 'used to do in the good ol' days'. His eyes rolled when I regailed him with stories of going to the comptuer swap meet where I would walk down aisles and aisles of vendors looking for the best price for a particular component. You could bargain with the vendors if you were willing to purchase multiple components. Those were good times. I told him about when I bought my first rig in 1987 and I how I was faced with an important decision--How large of a hard drive should I buy? I remember standing there trying to decide between a 20 and 40 MB hard drive (yes you read that right **MB**) and I was balking at the 40MB drive because, 'What in the world would I do with 40MBs?'. For those of you that are too young to remember, back then the biggest files that you would store on your hard drive were MS Word files at maybe 100k. Storing photos, music, and videos was not even possible--but people thought, 'Maybe one day'. So in an attempt to make my rig 'future proof' I opted for the 40MB hard drive. But I digress.
