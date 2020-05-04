@@ -12,3 +12,7 @@ Gemfile.lock
 
 # bundle cache
 vendor
+
+# MSCode
+
+*.code-workspace
