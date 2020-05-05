@@ -19,7 +19,7 @@ seo:
   * **Solution**: Used [Pendrive](https://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/) USB boot builder.
 * Unable to get rig to recognize USB boot drive.
   * **Diagnosis** Boot drive order had hard drive before USB drive.
-  * **Solution** During machine boot up, press F2 and re-order the boot drive order in the BIOS.
+  * **Solution** During machine boot up go into machine BIOS (my machine it was by pressing F2 during boot up) and re-order the boot drive order in the BIOS.
 
 ## Background
 
