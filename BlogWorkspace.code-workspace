@@ -4,10 +4,7 @@
 			"path": "."
 		},
 		{
-			"path": "D:\\git\\PhantomX-Tutorial"
-		},
-		{
-			"path": "D:\\git\\resume.bstankie.com"
+			"path": "../resume.bstankie.com"
 		}
 	],
 	"settings": {}
