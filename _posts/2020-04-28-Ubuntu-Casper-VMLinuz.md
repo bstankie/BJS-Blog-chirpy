@@ -5,7 +5,7 @@ date: 2020-04-28 8:55:00 -0500
 categories: [tutorial]
 tags: [linux]
 seo:
-  date_modified: 2020-04-29 13:46:38 -0500
+  date_modified: 2020-05-05 10:10:19 -0500
 ---
 ![VMLinuz File Not Found](/assets/img/post_images/VMLinuzFileNotFound.jpg)
 
